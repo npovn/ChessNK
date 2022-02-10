@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ChessNK Puzzle &#8211; Chess Năng khiếu</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Câu lạc bộ Cờ vua của trường Phổ thông Năng khiếu</description>
+	<lastBuildDate>Thu, 10 Feb 2022 16:43:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/02/cropped-Logo-100x100.png</url>
+	<title>ChessNK Puzzle &#8211; Chess Năng khiếu</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Puzzle 9/12/2021 &#8211; Đen đi</title>
+		<link>./../../../../2021/12/09/puzzle-9-12-2021-den-di/index.html</link>
+		
+		<dc:creator><![CDATA[ChessNk]]></dc:creator>
+		<pubDate>Thu, 09 Dec 2021 15:23:00 +0000</pubDate>
+				<category><![CDATA[Bài đăng]]></category>
+		<category><![CDATA[ChessNK Puzzle]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=357</guid>
+
+					<description><![CDATA[Đen có 7749 cách để ăn hơn quân ở đây, nhưng nhiều người sẽ bất ngờ khi nước tối ưu ở đây lại là nước&#8230; thí quân. Liệu bạn có thể tìm ra tất cả các biến để chiếu bí vua Trắng trong 4 nước trở xuống không? Xem đáp án]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Puzzle 4/10/2021  &#8211; Trắng đi</title>
+		<link>./../../../../2021/10/04/puzzle-4-10-2021-trang-di/index.html</link>
+		
+		<dc:creator><![CDATA[ChessNk]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2021 15:37:00 +0000</pubDate>
+				<category><![CDATA[Bài đăng]]></category>
+		<category><![CDATA[ChessNK Puzzle]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=412</guid>
+
+					<description><![CDATA[Một nước cờ phát triển quân Xe của bên Đen dù trông rất bình thường, nhưng lại tạo cơ hội cho Trắng giành được lợi thế về quân lực rất lớn. Liệu bạn có thể tìm ra nước đúng đầu tiên, cũng như các câu trả lời cho những cách phản ứng chính của Đen &#8230; <p class="link-more"><a href="./../../../../2021/10/04/puzzle-4-10-2021-trang-di/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "Puzzle 4/10/2021  &#8211; Trắng đi"</span></a></p>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Puzzle&#8221; 19/9/2021 &#8211; Trắng đi</title>
+		<link>./../../../../2021/09/19/puzzle-19-9-2021-trang-di/index.html</link>
+		
+		<dc:creator><![CDATA[ChessNk]]></dc:creator>
+		<pubDate>Sun, 19 Sep 2021 16:50:00 +0000</pubDate>
+				<category><![CDATA[Bài đăng]]></category>
+		<category><![CDATA[ChessNK Puzzle]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=425</guid>
+
+					<description><![CDATA[Đen tuy hơn hẳn 2 xe, nhưng Trắng lại có thể&#8230; chiếu bí??? ( ͡° ͜ʖ ͡°) Xem đáp án]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Puzzle 14/09/2021 &#8211; Đen đi</title>
+		<link>./../../../../2021/09/14/puzzle-14-09-2021-den-di/index.html</link>
+		
+		<dc:creator><![CDATA[ChessNk]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2021 09:31:00 +0000</pubDate>
+				<category><![CDATA[Bài đăng]]></category>
+		<category><![CDATA[ChessNK Puzzle]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=418</guid>
+
+					<description><![CDATA[Ôi không! Trắng đang vô cùng thắng thế, nhưng sự tham lam của Trắng khi ăn tốt ở c6 đã giúp Đen có cơ hội tiêu diệt Trắng hoàn toàn. Liệu bạn có thể tìm những nước đi của Đen để ép bí trong 3 nước không? Xem đáp án]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
