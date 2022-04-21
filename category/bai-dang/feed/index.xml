@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Câu lạc bộ Cờ vua của trường Phổ thông Năng khiếu</description>
-	<lastBuildDate>Wed, 20 Apr 2022 16:05:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Apr 2022 07:23:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2022/02/cropped-Logo-100x100.png</url>
